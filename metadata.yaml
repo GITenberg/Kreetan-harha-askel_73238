@@ -1,0 +1,35 @@
+_repo: Kreetan-harha-askel_73238
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Koskimaa, Juho
+    birthdate: 1891
+    deathdate: 1926
+    gutenberg_agent_id: '46158'
+    url: http://www.gutenberg.org/2009/agents/46158
+    wikipedia: https://fi.wikipedia.org/wiki/Juho_Koskimaa
+description: ''
+gutenberg_issued: '2024-03-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73238'
+language: fi
+pgterms:marc905: 20231210000709koskimaa
+pgterms:marc906: '1922'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aHelsinki :$bOtava, $c1922.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, Finnish'
+- !lcsh 'Finnish fiction -- 20th century'
+- !lcc 'PH'
+- GITenberg
+tableOfContents: Järki ja periaate -- Kreetan harha-askel -- Carl Eneas Brovallin
+  naiminen -- Sara-Niilan lapsen kuolema -- Pororuhtinas kuolee -- Anselmi Kaarretahon
+  vaivojen loppu -- Liian myöhään -- Suurten jokien varsilta -- Jokihulluutta -- Kohtaus
+  joella -- Mikko Puuperä -- Tiltu -- Erämaan henkeä -- Kunnia.
+title: Kreetan harha-askel
+url: http://www.gutenberg.org/ebooks/73238
